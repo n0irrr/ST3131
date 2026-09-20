@@ -1,0 +1,17 @@
+
+# Data Manipulation
+numpy
+pandas
+
+# Data Visualisation
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Statistics
+statsmodels
+
+# Misc
+ipykernel
